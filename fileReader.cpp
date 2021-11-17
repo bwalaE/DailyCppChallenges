@@ -30,7 +30,7 @@ int main() {
 
     //cout << "program start" << endl;
 
-    string path1 ("fstreamFiles/test1.txt");
+    string path1 ("fstreamFiles/challenge3.txt");
     vector<string> linesFromFile;
 
     readFromFile(path1, linesFromFile);
